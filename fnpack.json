@@ -1,0 +1,17 @@
+{
+  "customIcon": {
+    "display_name": "扩展图标管理",
+    "desc": "用于自定义生成第三方应用、docker应用及外部链接等图标快捷方式，兼容App、http及https访问方便灵活配置。",
+    "labels": "工具,效率,快捷方式",
+    "version": "2.3.9-Beta",
+    "author": "XIAOBONET",
+    "author_url": "https://club.fnnas.com/home.php?mod=space&uid=15673",
+    "download_url": "",
+    "bug_report_url": "https://club.fnnas.com/home.php?mod=space&uid=15673",
+    "install_type": "系统空间",
+    "size": "5.20",
+    "history": {
+      "v2.3.9-Beta": "轻量（应用包仅5.2MB）、低占用、原生方案无其他环境依赖，NAS内应用窗口化，支持App及公网访问，兼容反代用户"
+    }
+  }
+}
